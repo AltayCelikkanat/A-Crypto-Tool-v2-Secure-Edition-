@@ -18,7 +18,7 @@ Projeyi çalıştırmak için sisteminizde Python yüklü olmalıdır.
 Depoyu Klonlayın:
 
 Bash
-git clone https://github.com/KULLANICI_ADIN/A-Crypto-Tool.git
+git clone https://github.com/AltayCelikkanat/A-Crypto-Tool.git
 cd A-Crypto-Tool
 Bağımlılıkları Yükleyin:
 Windows kullanıyorsanız baslat.bat dosyasını çalıştırın veya terminale şu komutu girin:
